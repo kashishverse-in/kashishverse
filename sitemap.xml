@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Main pages -->
   <url>
     <loc>https://kashishverse-in.github.io/kashishverse/index.html</loc>
   </url>
@@ -23,6 +24,19 @@
 
   <url>
     <loc>https://kashishverse-in.github.io/kashishverse/contact.html</loc>
+  </url>
+
+  <!-- Essays -->
+  <url>
+    <loc>https://kashishverse-in.github.io/kashishverse/essays/mental-health-wellness.html</loc>
+  </url>
+
+  <url>
+    <loc>https://kashishverse-in.github.io/kashishverse/essays/technology-future-education.html</loc>
+  </url>
+
+  <url>
+    <loc>https://kashishverse-in.github.io/kashishverse/essays/english-fluency-guide.html</loc>
   </url>
 
 </urlset>
